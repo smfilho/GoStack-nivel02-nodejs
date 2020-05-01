@@ -11,7 +11,7 @@
 
 ## 💡 About this project:
 
-This is the first project from zero, using node.js and typescript, including tools like:
+This is the first back-end project from zero, using node.js and typescript, and including tools like:
 - ts-node-dev
 - EsLint;
 - Prettier;
